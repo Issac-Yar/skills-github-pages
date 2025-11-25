@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-cool page
+title: Welcome to my blog!!
 ---
 
